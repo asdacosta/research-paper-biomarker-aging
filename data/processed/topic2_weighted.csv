@@ -1,0 +1,6 @@
+biomarker,n,tau,ci_low,ci_high
+Creatinine,5154,59,57.0,75.0
+Hemoglobin,5271,73,65.0,75.0
+White blood cells,5271,74,50.95,75.0
+hs-CRP,5146,59,52.925000000000004,63.17500000000004
+Fasting glucose,2537,65,46.0,72.0
